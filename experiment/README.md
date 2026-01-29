@@ -25,7 +25,7 @@ public class DefaultValuesDemo {
 ```
 ## output
 ![output for display](https://github.com/swarna939140/java_lab-cse-g/blob/0da43b9afde77d20e380b530261b4de1194408ba/Screenshot%20(3).png)
-## title: 1b) discriminant
+## title: 1b) discriminant(
 ```
 import java.util.Scanner;
 class QuadraticEquationSolution {
