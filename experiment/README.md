@@ -23,4 +23,5 @@ public class DefaultValuesDemo {
     }
 }
 ```
-## output(
+## output
+![output for display](
