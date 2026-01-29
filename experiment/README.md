@@ -90,4 +90,5 @@ System.out.println("perimeter of given rectangle:"+perimeter);
 
 ```
 ## output :
-![output for rectangle](
+![output for rectangle](https://github.com/swarna939140/java_lab-cse-g/blob/7b24859261b5c68fc12a7b68584728c319467878/Screenshot%20(1).png)
+
