@@ -61,3 +61,33 @@ class QuadraticEquationSolution {
     }
 }
 ```
+## output:
+![output for discriminant](https://github.com/swarna939140/java_lab-cse-g/blob/46202f99a6bc0f6783d5278e12898f758ec63950/1b.png)
+## title 2a) reactangle
+```
+class rectangle{
+double length;
+double breadth;
+double area{
+recturn (length *breadth);
+}
+double perimeter{
+return(2*length +b breadth);
+}
+}
+
+class main{
+public static void main (String args[]){
+rectangle rect =new  rectangle ();
+rect.length=10;
+rect.breadth=5;
+double area =rect.area();
+double perimeter=rect.perimeter();
+System.out.println("area of given rectangle:"+area);
+System.out.println("perimeter of given rectangle:"+perimeter);
+}
+}
+
+```
+## output :
+![output for rectangle](
